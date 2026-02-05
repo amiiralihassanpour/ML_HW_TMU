@@ -24,12 +24,13 @@ This repository (**ML_HW_TMU**) serves as a **student homework companion** to th
 
 ## 📂 Repository Structure
 
-ML_HW_TMU/
-│── HW1/ # Python fundamentals & procedural programming
-│── HW2/ # Data analysis with NumPy, Pandas, and Matplotlib
-│── HW3/ # KNN implementation for different feature types
-│── HW4/ # Gradient Descent optimization and visualization
-│── README.md
+ML_HW_TMU
+
+    │── HW1/ # Python fundamentals & procedural programming
+    │── HW2/ # Data analysis with NumPy, Pandas, and Matplotlib
+    │── HW3/ # KNN implementation for different feature types
+    │── HW4/ # Gradient Descent optimization and visualization
+    │── README.md
 
 
 
