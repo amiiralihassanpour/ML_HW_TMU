@@ -1,7 +1,7 @@
 # ML_HW_TMU
 
 This repository contains solutions to **Machine Learning homework assignments**
-completed as part of the **Advanced Machine Learning (AML)** course at  
+completed as part of the **Machine Learning (AML)** course at  
 **Tarbiat Modares University (TMU)**.
 
 The focus of this repository is on:
