@@ -12,7 +12,7 @@ The focus of this repository is on:
 
 ---
 
-## 📚 Course Reference
+## Course Reference
 
 The official course materials, lecture notes, and baseline implementations are maintained in the main course repository:
 
@@ -22,7 +22,7 @@ This repository (**ML_HW_TMU**) serves as a **student homework companion** to th
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ML_HW_TMU
 
@@ -36,7 +36,7 @@ ML_HW_TMU
 
 ---
 
-## 🧠 Homework Overview
+## Homework Overview
 
 ### **HW1 – Python Fundamentals & Student Grade Management**
 A console-based **Student Grade Management System** implemented using core Python concepts:
@@ -83,7 +83,7 @@ Focus: optimization dynamics and convergence behavior. :contentReference[oaicite
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python 3
 - NumPy
 - Pandas
@@ -93,7 +93,7 @@ Focus: optimization dynamics and convergence behavior. :contentReference[oaicite
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 Through these assignments, this repository demonstrates:
 - practical understanding of machine learning foundations,
 - ability to implement algorithms without relying solely on libraries,
@@ -102,6 +102,6 @@ Through these assignments, this repository demonstrates:
 
 ---
 
-## 👤 Author
+## Author
 - **Amirali Hassanpour** Student at **Tarbiat Modares University** (TMU)
 - Course: Basic Machine Learning
